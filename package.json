@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/os-platform",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Platform on which the current process is running.",
   "license": "Apache-2.0",
   "author": {
