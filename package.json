@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/os-platform",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Platform on which the current process is running.",
   "license": "Apache-2.0",
   "author": {
@@ -42,8 +42,8 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/cli-ctor": "^0.1.0",
-    "@stdlib/fs-read-file": "^0.1.0"
+    "@stdlib/cli-ctor": "^0.1.1",
+    "@stdlib/fs-read-file": "^0.1.1"
   },
   "devDependencies": {
     "@stdlib/assert-is-browser": "^0.1.0",
