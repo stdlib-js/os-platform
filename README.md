@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import PLATFORM from 'https://cdn.jsdelivr.net/gh/stdlib-js/os-platform@esm/index.mjs';
+import PLATFORM from 'https://cdn.jsdelivr.net/gh/stdlib-js/os-platform@v0.2.0-esm/index.mjs';
 ```
 
 #### PLATFORM
@@ -70,7 +70,7 @@ console.log( PLATFORM );
 <body>
 <script type="module">
 
-import PLATFORM from 'https://cdn.jsdelivr.net/gh/stdlib-js/os-platform@esm/index.mjs';
+import PLATFORM from 'https://cdn.jsdelivr.net/gh/stdlib-js/os-platform@v0.2.0-esm/index.mjs';
 
 if ( PLATFORM === 'win32' ) {
     console.log( 'Running on a PC...' );
