@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import PLATFORM from 'https://cdn.jsdelivr.net/gh/stdlib-js/os-platform@deno/mod.js';
+import PLATFORM from 'https://cdn.jsdelivr.net/gh/stdlib-js/os-platform@v0.2.1-deno/mod.js';
 ```
 
 #### PLATFORM
@@ -65,7 +65,7 @@ console.log( PLATFORM );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import PLATFORM from 'https://cdn.jsdelivr.net/gh/stdlib-js/os-platform@deno/mod.js';
+import PLATFORM from 'https://cdn.jsdelivr.net/gh/stdlib-js/os-platform@v0.2.1-deno/mod.js';
 
 if ( PLATFORM === 'win32' ) {
     console.log( 'Running on a PC...' );
