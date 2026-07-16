@@ -77,6 +77,22 @@ console.log( PLATFORM );
 
 <!-- /.usage -->
 
+<section class="notes">
+
+## Notes
+
+-   The following values are possible:
+
+    -   `'win32'`
+    -   `'darwin'`
+    -   `'linux'`
+    -   `'freebsd'`
+    -   `'sunos'`
+
+</section>
+
+<!-- /.notes -->
+
 <section class="examples">
 
 ## Examples
